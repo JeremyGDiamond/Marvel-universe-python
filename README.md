@@ -34,4 +34,4 @@ To solve for the assigned values I simply summed the relevant data from the 2D a
      
      The min, mean, and max number of book appearances per character are :1, 14.925298959465756, and 1577
      
-     The min, mean, and max number of collaborators per character are :0, 34.80524926230781, and 1428`
+     The min, mean, and max number of collaborators per character are :0, 34.80524926230781, and 1428
